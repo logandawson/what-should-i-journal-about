@@ -113,6 +113,41 @@ body {
   outline-offset: 4px;
 }
 
+.sources-blurb {
+  font-size: 16px;
+  line-height: 1.5;
+  padding: 0 0 20px 0;
+}
+
+.sources-list {
+  text-align: left;
+  font-size: 14px;
+  padding-left: 1rem;
+}
+
+.sources-list li {
+  margin: 1rem 0 1rem 0;
+  line-height: 1.8;
+}
+
+.sources-list a,
+.back-link {
+  color: inherit;
+  text-decoration: none;
+  opacity: 0.75;
+  transition: opacity 0.2s;
+}
+
+.sources-list a:hover,
+.back-link:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
+
+.back-link {
+  font-size: 12px;
+}
+
 .footer {
   position: absolute;
   bottom: 25px;
@@ -165,6 +200,14 @@ body {
   #new-prompt-button {
     padding: 8px 18px;
     font-size: 14px;
+  }
+
+  .sources-blurb {
+    font-size: 14px;
+  }
+
+  .sources-list {
+    font-size: 12px;
   }
 
   .footer {
