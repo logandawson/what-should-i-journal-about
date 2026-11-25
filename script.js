@@ -4,7 +4,7 @@ let previousIndex = -1;
 const titles = [
   "Today you should write about...",
   "Maybe try writing about...",
-  "How about writing an answer to...",
+  "How about writing a response to...",
 ];
 
 const randomTitle = document.getElementById("title");

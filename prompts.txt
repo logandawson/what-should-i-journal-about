@@ -17,10 +17,10 @@ Invent your own planet. Draw a rough sketch of the planet and its inhabitants. H
 React to the following quote from Anaïs Nin: “We don't see things as they are, we see them as we are.”
 React to the following quote from We All Looked Up by Tommy Wallach: “Do you think it is better to fail at something worthwhile, or to succeed at something meaningless?”
 Take a task that you’ve been dreading and break it up into the smallest possible steps.
-Talk about a time that you are proud to have told someone “no.”
+a time that you are proud to have told someone “no.”
 The world would be a lot better if…
-Think about a “what if?” or worst-case scenario and work your way through the problem, identifying your options to get through it if it were to happen.
-Think about the last time you cried. If those tears could talk, what would they have said?
+a “what if?” or worst-case scenario and work your way through the problem, identifying your options to get through it if it were to happen.
+the last time you cried. If those tears could talk, what would they have said?
 What are some small things that other people have done that really make your day?
 What are some things that frustrate you? Can you find any values that explain why they bug you so much?
 What are some things that you could invest in to make life better for yourself?
@@ -55,15 +55,15 @@ Who has been your greatest teacher?
 Who is somebody that you miss? Why?
 Who is the most difficult person in your life and why?
 Why do you dress the way that you do?
-Write a complete story with just six words. For example: Turns out the pain was temporary.
-Write a letter to someone you miss dearly.
-Write a letter to your own body, thanking it for something amazing it has done.
-Write a thank you note to someone. Sending is optional.
-Write about a mistake that taught you something about yourself.
-Write about an aspect of your personality that you appreciate in other people as well.
-Write about something (or someone) that is currently tempting you.
-Write about something that you would like to let go of.
-Write an apology to yourself for a time you treated yourself poorly.
+a complete story with just six words. For example: Turns out the pain was temporary.
+a letter to someone you miss dearly.
+a letter to your own body, thanking it for something amazing it has done.
+a thank you note to someone. Sending is optional.
+a mistake that taught you something about yourself.
+an aspect of your personality that you appreciate in other people as well.
+something (or someone) that is currently tempting you.
+something that you would like to let go of.
+an apology to yourself for a time you treated yourself poorly.
 You have been temporarily blinded by a bright light. When your vision clears, what do you see?
 What is your interpretation of one of your recent dreams?
 What does death teach us about life?
@@ -71,7 +71,7 @@ When you look at an elderly person's hands what do you see?
 Which disease known to humankind do you hate the most? Explain why.
 What was your last dream about?
 What seemed unusual on your morning commute today?
-Tell me about an old friend you've lost touch with.
+an old friend you've lost touch with.
 What's your earliest holiday memory?
 What's your favorite charitable cause and why?
 What do you think your life will be like ten years from now?
@@ -178,7 +178,7 @@ What was your closest brush with death?
 Where would you want to live if Earth was uninhabitable?
 Remember the last time you spoke to a person who later died.
 If you were to die tomorrow, what would you want your last words to be?
-Write about the last time the weather scared you.
+the last time the weather scared you.
 Who was the best teacher you ever had, and why?
 Describe your favorite sound.
 When were you the happiest this year?
@@ -219,7 +219,7 @@ What's your favorite place to escape from life temporarily? A park? A mall?
 What's one job you would never want to do?
 Has a friend ever broken something or yours? How did you react?
 What's the best memory you have over the last year?
-How do you feel about politicians openly sharing their religious beliefs?
+how you feel about politicians.
 What characteristics or personality traits are most important to you in a politician?
 If you could trade places with a famous person for a day, who would you like to be and why?
 If you could learn any new language, which one would you choose and why?
@@ -240,7 +240,7 @@ What is your favorite lie to tell?
 Who do you live for?
 What is a secret about you?
 What family item has changed your view or ideas about a family member?
-Write about your best friend as if they were a stranger.
+your best friend as if they were a stranger.
 If you could build a soundtrack to your life, who would be on it?
 If you suddenly gained the ability to tell whether someone was lying, would you use it?
 How would you handle life in an arctic climate?
@@ -249,10 +249,10 @@ Who is your ideal presidential candidate?
 What kind of jobs have you had in the past?
 What was your major in college? How did you choose it?
 Where are you from?
-How would you go about 'saving the world'? What do those words mean to you? How long would it take? Where would you start?
+How would you go about “saving the world”? What do those words mean to you? How long would it take? Where would you start?
 If you were to write a book, would it be fiction or non-fiction? What would the subject be? Who is your target audience?
 What's the first step you can take to making a difference in the world today? Would you try to feed the hungry, improve the environment, promote peace? How would you start?
-Write a story about what 1 day in your life would be like if you were a dog or cat.
+a story about what 1 day in your life would be like if you were a dog or cat.
 Describe the ocean to a person who is blind.
 Using all of your 5 senses, describe your favorite food.
 How would you spend your time if you were wealthy?
@@ -304,9 +304,9 @@ If I could run out to any restaurant right now with more than enough money where
 Could writing a children's book really affect a child for the rest of their life?
 Just a spoonful of what makes the medicine go down?
 If you could be a color what would it be? Why?
-Tell about a time when someone made you feel welcomed or accepted. What did they do and how did it make you feel?
-Tell me about a time when someone made you feel bad about yourself. What did they do and how did you react?
-Think about the phrase "random acts of kindness"What are five things you could do for someone this week just to be kind?
+a time when someone made you feel welcomed or accepted. What did they do and how did it make you feel?
+a time when someone made you feel bad about yourself. What did they do and how did you react?
+the phrase "random acts of kindness". What are five things you could do for someone this week just to be kind?
 What one thing could you invent that would make your life easier?
 What are you most grateful for?
 Describe your most important possession.
@@ -336,14 +336,14 @@ Where is your favorite vacation place and why?
 If you could travel anywhere in the world, where would you go and what would you do?
 What is your ideal pet?
 What is a convenience you wouldn't want to do without?
-Tell me about your favorite vacation experience.
-Tell me about your worst vacation.
-Tell about a story when you got a parking ticket or traffic violation.
+your favorite vacation experience.
+your worst vacation.
+a story when you got a parking ticket or traffic violation.
 What was the first way you earned money?
 What is an unusual form of transportation you have used?
 Have you ever had an incident because you overslept?
 What is an experience you have had when you went fishing or swimming?
-Tell me about the best restaurant you have ever been to.
+the best restaurant you have ever been to.
 What is your favorite game? Why?
 Have you ever been in a car wreck? How many? Whose fault was it?
 Have you ever swallowed something strange? (a key, pin, marble…)
@@ -352,37 +352,37 @@ What is a famous place you have seen or want to see?
 Do any of your friends or relatives have strange occupations?
 Describe an incident that had something to do with water.
 Have you ever moved? Tell me about one of your moves.
-Tell me about an article or book you read recently.
+an article or book you read recently.
 What is a joke you played on someone?
 Describe a babysitting experience you have had.
-Are you competitive? Tell me about a competition that you participated in.
+a competition that you participated in.
 Describe something unusual that happened while you were eating in a restaurant.
 What is something strange that happened in your neighborhood?
 Describe a fair, parade, or festival you have attended.
 Describe an incident at a beauty or barber shop.
-Tell me about a time you slept outdoors.
+a time you slept outdoors.
 Do you have pets? Tell a story about one of them.
-Tell me about a dream that you can remember.
+a dream that you can remember.
 Do you believe in God? Why or why not?
-Tell about a time you were given, or gave, flowers.
-Tell about a cultural clash/experience you have had with a culture other than your own.
+a time you were given, or gave, flowers.
+a cultural clash/experience you have had with a culture other than your own.
 Have you, or your family, ever been affected by war? Describe how.
 What is an incident you have had at a movie theater?
 Where did you grow up? Describe what it was like?
 What is an exciting or crazy trip you have taken?
 At what age did you learn to ride a bicycle?
 Is there a movie that has brought you to tears? Tell me about it.
-Tell about a neighbor you had a hard time living next to.
+a neighbor you had a hard time living next to.
 What is the strangest wedding you have ever attended?
 What is the worst weather condition you have ever experienced?
 What is the best party you have ever been to?
 Recall an unusual bus, train, or plane ride.
 What is a New Year's Eve you will never forget?
 If money wasn't an issue, what kind of house would you have?
-Tell about living or visiting a farm or ranch.
+living at or visiting a farm or ranch.
 If money wasn't an issue, what car(s) would you have?
 What foreign countries have you been to? Which ones do you want to go to?
-Tell about a trend when you were born.
+a trend when you were born.
 Have you had an experience that made you feel close to nature?
 Which decade of clothing fashion was your favorite and least favorite?
 How much was Gas the last time you filled up?
@@ -393,14 +393,14 @@ Name someone or an event that guided you in choosing your vocation or work.
 What was your first favorite show?
 Do you actively change your habits and behaviors to help the environment? What kinds of things do you do?
 What are some major inventions that happened during your lifetime?
-Tell what you like about one of your hobbies.
+what you like about one of your hobbies.
 What musical instrument(s) do you play or wish you could play?
-Tell about a habit that you picked up from a family member or friend.
+a habit that you picked up from a family member or friend.
 What about your work can you take pride in?
-Tell me about the strangest food you have ever eaten.
+the strangest food you have ever eaten.
 Do you like commercials? Tell me about your favorite commercial.
 How are you like one of your brothers or sisters?
-Tell me about a time when you met someone famous.
+a time when you met someone famous.
 Describe a favorite letter you have received.
 Describe the first time you ever danced with someone.
 What is something that made your mother happy?
@@ -411,22 +411,22 @@ Tell a story that you have had with one of your aunts.
 Tell a memory that you have with one of your grandmothers.
 Tell a memory that you have with one of your grandfathers.
 Name one of the kindest people you have ever met. Why?
-Tell me about the first time you ever held hands with someone.
+the first time you ever held hands with someone.
 Who is one of the most courageous people you have ever met? Why?
 What is one of your favorite sayings? Tell how you heard it and when.
 Describe your father's personality.
 Describe your mother's personality.
 Describe each member of your family one by oneAd photos and personality descriptions.
 What kinds of activities went on at the kitchen table at home when you grew up? (eating doesn't count)
-Tell about the kind of people you hung out with in the past.
+the kind of people you hung out with in the past.
 What is your favorite sport? Why?
 What is a smell that you remember from growing up?
 Tell one of your favorite childhood stories.
 What is one unanswered question you would like to ask your parents? Why?
 Describe a family vacation.
-Tell me about one of your father-daughter/son activities.
+one of your father-daughter/son activities.
 Describe your best childhood friend.
-Tell me about one of your mother-daughter/son activities.
+one of your mother-daughter/son activities.
 Describe your first date.
 Who in your family is the biggest character?
 Tell a memory you have with one of your uncles.
@@ -434,7 +434,7 @@ What is one unanswered question you would like to ask your grandparents? Why?
 A time you got in trouble at school.
 What is your favorite family dinner?
 What was your favorite family dinner as a child?
-Tell me about a time when you were grounded.
+a time when you were grounded.
 Who is one of the most interesting people you have ever met?
 What state or country was your father raised in?
 What state or country was your mother raised in?
@@ -448,12 +448,12 @@ Did you grow up with lots of money or very little? How much money (give numbers 
 Has anyone ever influenced your manners for the better? Who?
 What did your family do on Sundays as a child?
 Describe your current (or last) romantic partner.
-Tell me about your first kiss.
+your first kiss.
 What is a game or song that your family played or sang while driving?
 What did your parents do for fun?
 Who was one of your best, or worst, teachers? Describe them.
-Tell about something that you and your siblings used to do together.
-Tell about something that you and your siblings do together now.
+something that you and your siblings used to do together.
+something that you and your siblings do together now.
 Tell something you like about a friend from the past.
 Who is your favorite relative? Least favorite?
 Who is a friend you haven't seen for a long time but would like to see.
@@ -462,14 +462,14 @@ What was/is something that your father considered/considers very important?
 What is something you liked about your childhood?
 What kinds of things make/made your father happy?
 What is an event that you will never forget from your school days?
-Tell me about one of your first away-from-home experiences.
-Tell me about one of the oldest photographs you have.
+one of your first away-from-home experiences.
+one of the oldest photographs you have.
 How are your father and grandfather alike?
 How are your mother and grandmother alike?
 What are your political views? Are you a liberal? republican? libertarian? … Why?
 In your mind, what will the world be like in 50 years?
 If you were given a huge amount of money, but had to give it away, who would you give it to?
-Tell me about the happiest day of your life.
+the happiest day of your life.
 Do you have a favorite time of day? Why?
 What is your favorite movie of all time?
 What is your favorite place to eat?
@@ -490,11 +490,11 @@ What age would you consider the prime of life? Why?
 Describe a family tradition.
 How have credit cards affected your life?
 What do you really like about where you live?
-Are you ever lucky? Tell me about it.
+A time when you were lucky.
 If you knew you would lose every possession you own but one, what would you keep?
 What is your perfect weekend?
 Describe the perfect vacation.
-Tell about how your parents influenced your spiritual beliefs.
+how your parents influenced your values.
 How is your life different now from just a year ago?
 What is your favorite season? Why?
 What is your favorite holiday? Why?
@@ -502,33 +502,34 @@ Name a public figure who has inspired you. Why?
 How have you adjusted your eating habits to be healthier?
 Describe when someone has done something very nice for you.
 If you could spend a day with someone famous, who would it be?
-Tell about a time you laughed until you cried.
+a time you laughed until you cried.
 What is a cause that is VERY important to you?
 Do you exercise? How has your exercising changed throughout your life?
 What do you do to relax?
 What have you done that was out of character?
-Tell me about a time when you shocked someone.
+a time when you shocked someone.
 What is the biggest risk you have ever taken?
 What occupation do you think would be fascinating?
 What is a principle or ideal that you would like to pass on to the next generation?
-Tell about an award you have received.
-Tell about a friend you have with a different national background.
+an award you have received.
+a friend you have with a different national background.
 What is the proudest moment of your life?
 What do you feel is your greatest success?
 What is the best decision you have ever made in your life?
 What kind of art is your favorite? Why?
+the last piece of art you saw. How did it make you feel?
 What is an experience that you would consider a miracle?
-Tell about a characteristic in others you admire?
+a characteristic in others you admire?
 What is the most courageous thing you have ever done?
 What is one of your life goals?
-Write out your life mission statement (or at least start)
+your life mission statement (or at least start)
 What was your New Year's Resolution this year?
 What would you put in a time capsule to be opened by the next generation?
 Has religion played a role in your life? How?
 Describe a time you helped someone.
 What is something about yourself that you dislike?
-Tell me about something you do well?
-Tell me about your home. Do you have a favorite room? Why?
+something you do well?
+your home. Do you have a favorite room? Why?
 What makes a good neighbor?
 What do you think the world will be like in 10 years? Twenty? Fifty?
 What is your opinion about cryptids?
@@ -571,7 +572,7 @@ What is your favorite occupation?
 What is your most marked characteristic?
 What is the quality you like most in a woman?
 What is the quality you like most in a man?
-Who are your favorite writers?
+Who are your favorite authors?
 What do you most value in your friends?
 Who is your favorite hero of fiction?
 What is it that you most dislike?
@@ -594,7 +595,7 @@ What is your favorite holiday? What makes this holiday special?
 What is your favorite day of the week?
 What is your favorite month? Why?
 What would happen if there were no smartphones? Why would this be good? Bad?
-What would you do if you saw a friend cheating—report it, confront the friend, nothing—and why?
+What would you do if you caught a friend cheating—tell their partner, confront them, nothing—and why?
 If you could have been someone in history, who would you have been?
 If you could only take 3 people with you on a trip around the world, who would you take and why?
 If you could give any gift in the world, what would you give and to whom?
@@ -754,7 +755,6 @@ Why is it not wise to squander your money?
 Explain why we say, "dead as a door nail".
 Do you think it is necessary to have alcohol at a party in order to have a good time?
 Does it bother you to be around someone who has bad manners?
-Should there be a dress code in places such as school, restaurants, and places of business? Why or why not?
 Should animals be used for medical research?
 Families are important because…
 Would you like to be famous? Why or why not? What would you like to be famous for?
@@ -807,6 +807,7 @@ What is the best advice you ever received?
 What is your favorite holiday? What makes this holiday special?
 What is your favorite day of the week?
 What is your favorite month? Why?
+What is a fantasy you have that no one knows about?
 What would happen if you could fly whenever you wanted? When would you use this ability?
 What would happen if everyone lived in space? What type of houses would they live in? What type of clothing would they wear? What type of food would they eat? How would they travel?
 What if cows gave root beer instead of milk?
@@ -822,7 +823,7 @@ What would happen if you loved your neighbour as yourself? What if everyone did?
 What would happen if you grew taller than trees? How would this change your life?
 What would happen if children ruled the world?
 What would happen if there were no cars, buses, trains, boats, or planes? How would this change your life?
-What if everyone lived under water? Where would people live? What games would children play? What would school be like?
+What if everyone lived under water? Where would people live? What games would children play? What would work be like?
 What would happen if you found gold in your backyard?
 What would you do if a bully bothered you on your way home?
 What would you do if you did very poorly on a test?
@@ -839,7 +840,6 @@ What would you do if only one hot dog is left and neither you nor your friend ha
 What would you do if two of your best friends went to the movies without inviting you?
 What would you do if the surprise party was for you but you weren't surprised?
 What would you do if you got a present you didn't like?
-What would you do if you were at home and your homework was at school?
 What would you do if you dropped the cookie jar and it broke?
 What would you do if you were invited to two parties on the same day?
 What would you do if you promised to feed your pet and you didn't?
@@ -852,14 +852,12 @@ What would you do if you found money in the street?
 What would you do if you found a magic wand?
 What would you do if you wanted to be friends with someone who spoke no English?
 What would you say if someone told you it was all right to steal from a large department store?
-What would you do if you saw a friend cheating—report it, confront the friend, nothing—and why?
 If you could have been someone in history, who would you have been?
 If you could only take 3 people with you on a trip around the world, who would you take and why?
 If you could give any gift in the world, what would you give and to whom?
 If you could live anywhere in the world, where would it be?
 If you received any sum of money as a gift, what would you do with it?
 If you could do whatever you wanted to right now, what would you do?
-If you were principal of this school, what would you do?
 If you were a mouse in your house in the evening, what would you see your family doing?
 If you were five years older you would...
 If you were lost in the woods and it got dark, what would you do?
@@ -867,6 +865,7 @@ If there were no rules, what do you think would happen?
 If you owned a store, what would you do to discourage people from stealing from you?
 If you could participate in an Olympic event, which one would you choose and why?
 If you had to describe yourself as a color, which would you choose?
+If you could go on a one-time date with anyone in the world, who would it be?
 If your friend told you of a secret plan to run away from home, what would you do and why?
 What do you think someone your age can do to help reduce the amount of pollution in our environment?
 What do you think the world needs now?
@@ -921,7 +920,6 @@ What talents do you have?
 What three words would describe you right now?
 What four things are most important in your life?
 What color makes you think of happiness?
-What has been the most fun activity at school so far?
 What qualities do you like about yourself—creativity, personality, appearance—why?
 What eccentric behavior in a friend disturbs you the most?
 What parts of nature do you like best?
@@ -1036,4 +1034,266 @@ Should junk food be banned from schools?
 Should students be required to learn a second language?
 What are you nostalgic for?
 What is something you find attractive in another person?
+What is something unusual or odd that you find attractive in another person?
 Plan out your ideal date from start to finish.
+What is something that you think kids understand, but adults do not?
+Describe what you see when you look outside your bedroom window
+Do you like how old you are now, or do you wish you were older or younger?
+Who do you consider to be family?
+If you had to sum up human nature in 3 words, which would you choose?
+Take any poem or short story you enjoy. Rewrite it in your own words
+Take a popular song off the radio and rewrite it as a poem in your own words
+Rewrite a fairy tale in any way you want
+What if your mirror started talking to you? What might the mirror say?
+Write something inspiring about the sunrise or sunset
+What does Memory Lane look like? How do you get there?
+Which memory would you want to relive if you could?
+Choose one of the natural wonders of the world. Write about it.
+Write about a magic potion. What is it made of? What does it do? What is the antidote?
+Why are there so many songs about rainbows?
+What’s under the surface of the ocean? What adventures might be waiting?
+Create a poem that highlights the beauty in being flawed
+Write about an epic battle, whether real, fictional or figurative
+Write about romantic things partners can do for each other
+Charlie Weasley is the new Groundskeeper of Hogwarts. How did he hear the news?
+What kind of events make you feel old?
+Describe a fair, parade or festival you have attended
+What do you think is the greatest invention? Why?
+What used to be considered trashy, but now is very classy?
+If you ran into a talking animal, what would you ask them?
+Name 5 or more local places to go for a scenic walk
+What dietary changes are the hardest? Why?
+The best kind of laughter is...
+Write a love letter to your town
+What's the story behind your nickname(s)?
+What's the most memorable homework you've been given?
+What was the most bizarre rule you had in school?
+What are the most cowardly things a person can do?
+What do you consider to be your most overrated virtue?
+Which foreign cultures are the most fascinating?
+Do you prefer games with boards, dice, cards or electricity?
+Would you rather watch a silent movie or listen to a radio program?
+What's something in 2120 that will seem barbaric by our standards today?
+What's your favorite room in the house and why?
+If you were elected President, what do you think would be your most difficult task?
+Good or bad, what's your hometown best known for?
+What embarrassing moments have you had in a doctor's office?
+What major plot twist moment have you had in your life?
+Ten favorite restaurants
+Ten favorite games
+Ten favorite paintings
+What words do you most overuse?
+What is an experience that would be considered to be a miracle?
+What's your idea of a boring evening?
+Is there something you memorized long ago and still remember?
+Why do you think some people encourage others to smoke/drink?
+Do you believe there's life on other planets or galaxies?
+If you saw an alien, what would you do?
+If you believe we've already been in contact with aliens, how long do you think we've been communicating?
+Do you think mankind will ever colonize a planet in your lifetime? Why or why not?
+What is the most disturbing book you've ever read?
+What was your favorite video game growing up?
+What are the funniest jokes you know?
+What's your favorite misheard lyric?
+Which historical figure do you most identify with?
+How would you be different if you never watched television, or listened to music?
+What age do you consider to be the prime of life? Why?
+What decade of fashion is your favorite and least favorite?
+How are you going to celebrate entering the next century?
+What is the quality you like most in a man?
+What is the quality you like most in a woman?
+Do you believe in soul mates? Why or why not?
+What is a good neighbor?
+What occupation do you think would be fascinating?
+Do you think it's necessary to have alcohol at a party to have a good time?
+What do you think makes a happy family?
+What's your opinion on ghosts?
+What kind of art is your favorite or least favorite? Why?
+Describe your favorite painting. What do you think the artist was trying to create?
+Who was your first literary crush? What drew you to them?
+Describe the ideal book club
+What author, book or series do you refuse to read?
+Do you prefer character- or plot-driven stories? Why?
+Do you prefer hardback or paperback or hardback? Why?
+How would you feel if an acquaintance told you that you were their best friend?
+How did your great-/grand-/parents meet?
+Which amendment to the constitution is the most important to you? Why?
+How do you feel when you see something beautiful or handsome?
+If you could build a car customized for you, what would it look like? What would it contain?
+Which superhero is the most overrated?
+If not for your current one, what profession would you have chosen?
+If you could, which extinct animal(s) would you bring back?
+What ancient and/or extinct language would you like to be fluent in?
+If you could take home an animal from the zoo, which would it be and what would you do with it?
+What is the earliest photograph of yourself that you remember when it was taken?
+What is the earliest memory you have of a sibling?
+Which conspiracy theory do you believe is true?
+What word do you like the most?
+When was your life the most out of control?
+What is the hardest thing about love?
+What kind of cowardice do you despise?
+If you could have a pet from another planet, what would it look/sound/feel like?
+If you could build a robot, what would it look like? What would it be able to do?
+If re-telling movies from a different perspective became popular, what movie would you like retold?
+Psylonix is a made-up word. What do you think it is?
+What is the best April Fool's joke you could imagine?
+What would an epic game of hide-and-seek look like?
+What video game would you like to live in?
+You find a hidden temple underwater
+What does "America/American" mean to you?
+If I were a color, I would be...
+What are the origins of the universe?
+Pick a character you most identify with
+What older movie is still scary today?
+What parts of the book were you disappointed they never added into the movie?
+What is the first movie you remember seeing in theaters?
+You are transported into the last movie you saw. How screwed are you?
+What is your favorite animated movie and why?
+What movies are generally accepted, but are unrealistic in real life?
+What movie has aged incredibly well?
+What movie scarred you for life?
+What non-horror movie would you like to see remade as horror?
+Have there been any notable people who died from COVID-19?
+Why do some shows stay relevant even decades after their original airing while most don't?
+If you could get one more season of a TV show that's no longer airing, which show would it be?
+Your worst phobia just killed you. How did you die?
+What is the preferred method of communication? Is it different or the same between friends and family?
+Describe kindness
+How important is fame?
+The best kind of cake is...
+List the songs in your life soundtrack
+Describe the sound of your best friend's voice
+Describe your crush's face using metaphors
+Which spice brings back the most memories?
+Write down any jokes that you want say aloud, but probably shouldn't
+What are your favorite words?
+Is there a difference between happiness and fulfillment?
+Write about Death falling in love with Life
+How do you decide if you trust a person or not?
+What do you love most about this time in your life?
+What would unconditional love look like to you?
+your friends' zodiac signs and how accurate you think they are
+your go-to compliments
+compliments people have given you
+Describe the difference between romantic love and platonic love
+What if there were only 18 hours in a day?
+If you went back to school, what would you study?
+your dream summer vacation
+What have been the best summer vacations you have had?
+What is a food you would love to try from a different country?
+What is a memory that always makes you smile?
+What was your best birthday ever? Why?
+Define the following: Wisdom. Love. Truth. Courage. Joy.
+If you could visit any planet, where would you go?
+What dangers would you face as a chipmunk? How would you overcome them?
+Imagine you're a mountain and you're watching the world. What have you seen in your lifetime?
+How does it feel to be a snowflake?
+What would you do if you were the last person on Earth?
+Imagine if all the rivers became rivers. How would you get around?
+Imagine if all cows gave orange juice instead of milk. What would the world look like?
+If I were a turtle, I'd...
+If I were a raindrop, I'd...
+If I were an Easter egg, I'd...
+I wish trees could...because...
+Look through your photographs and choose a few to write about
+How do you define a hero? Do you think fame is an important component of heroism, or do you think most heroes are unknown?
+Who is your favorite historical person? Why? Are there any characteristics of this person that you see in yourself, or any that you would like to see?
+What makes you read a story or a news article? Which type of article or story grabs your attention?
+If you wanted to protest an unfair law to help other people, what would you do?
+Who is your favorite historical female figure? What do you admire about her?
+Write about some sayings/expressions/advice you heard at home while growing up. Who said them? What did they mean? Do you use any of those expressions today?
+Describe a game you used to play with a sibling
+What were some of your favorite books as a child? Why were they special?
+Describe your most memorable family vacation. Where did you go? Did you eat new or unique foods?
+Describe your favorite hideaway
+What memories of your mother do you have? Describe a couple of moments.
+Did you have your own bedroom growing up or did you have to share with a sibling(s)? Describe it.
+Do you remember your mother or grandma's kitchen? Use sight, smell and touch to describe it.
+What are some ways you explore your curiosity about the world? What are you curious about?
+What are some of your favorite things to wear during the colder months?
+What is your favorite memory of autumn?
+What is your favorite place to go for a scenic drive or walk?
+What are some things you like to do during this time of year that you can't do at other times of the year?
+Do you expect you'll still be living in the same town/area where you're currently living? If not, where do you want to be living? Why?
+What inventions do you think we'll have by 2030? Or by 2040?
+What do you think the world will be like ten years from now? Why do you think it'll be that way?
+What do you hope your family members will be doing ten years from now?
+What are some milestones your family will experience in the next ten years?
+What are your favorite sounds? Where do you hear these sounds?
+What type of sounds do you like waking up to?
+Describe or draw what you picture when you think of beautiful scenery. What type of landscape is it? What season is it? What is the weather?
+What colors do you find annoying to look at?
+What colors do you find soothing to look at?
+What are your favorite fabrics to wear (e.g. cotton, silk, leather, stretchy, loose, etc.)?
+What foods do you remember eating often as a child?
+What foods do you most enjoy eating now? How have your tastes changed over the years?
+What is your favorite synthetic fragrance? Does it remind you of someone?
+What is your favorite natural fragrance (fruit, sea, woods)? Why?
+What is your life's purpose?
+Write your own epitaph
+How do you want to be remembered 100 years from now?
+Do you believe in eternal love?
+What does "love at first sight" look like to you?
+Whose company do you enjoy the most?
+What are some things you do without trying hard, but surprise others?
+What is the one experience that you think will make life complete?
+What is one thing you did recently that made you lose track of time?
+What is one thing you feel genuinely excited about?
+Do you want to live together? Why or why not?
+Write down the lyrics of a song that keeps looping in your head
+Do you believe faith is powerful? Why or why not?
+What is the dumbest story of yourself that you'll tell your children?
+Did you enjoy your childhood as a kid?
+Money. Family. Health. How do you prioritize these 3 things?
+How do you feel about your body?
+What are some good and relaxing things to do at home while staying indoors?
+How can you use this time productively and to your advantage?
+Are you fully prepared for it to get worse?
+What is the situation like where you are compared to other places?
+What does your ideal world or place to live consist of?
+If you lost all electronic connection forever, what would you do to pass the time?
+What is your idea of a monster? What makes them a monster?
+What if everyone lived underwater? Where would people live? What games would children play? What would school be like?
+What would happen if there weren't any vehicles? How would this change your life?
+What if children ruled the world?
+What would happen if you grew taller than the trees? How would this change your life?
+What if everyone wore the same clothes?
+What would happen if you could become invisible whenever you wanted to? What are some of the things you could do that you cannot do now?
+What would happen if everyone lived in space? What type of houses would they live in? Type of clothes? Type of food? How would they travel?
+I wish all children would...
+How would you change the world to make it better?
+What would you invent to make life better?
+What parts of nature do you like best?
+What things are better than going to school? Why?
+If it were your job to decide what shows can be on TV, how would you choose?
+If you were principal of this school, what would you do?
+What's the worst thing a parent can do to their own children?
+What's a principle or ideal that you would like to pass on to the next generation?
+What will the world be like in exactly 50 years?
+What state or country were your parents born in?
+Tell one of your favorite childhood stories
+What are some major inventions that happened within your lifetime?
+Had you, or your family, been affected by war? Describe how.
+Tell about a culture clash/experience you've had with a culture other than your own
+What would you do if you lived in an environment where nobody could speak?
+What would you do if you were an undercover agent in heaven?
+What would you do if you were homeless?
+Could writing a children's book really affect a child for the rest of their life?
+Complete this sentence: Love is...
+If you were the ruler of a planet, how would you handle space exploration?
+Describe the ocean to a blind person.
+Who is your ideal presidential candidate?
+How would you handle life in an arctic climate?
+Who is your worst presidential candidate?
+What characteristics or personality traits are most important to you in a politician?
+Describe your favorite sound
+How do you feel when you stare at the stars?
+Where would you want to live if Earth quickly became uninhabitable?
+How do you imagine humans and other animals would move to Mars in the event of a catastrophe?
+If you had to sacrifice one of your senses, which would you choose? Why?
+Which disease known to mankind do you hate the most? Why?
+What's your favorite charitable cause? Why?
+What's your definition of success?
+What would be your ideal job when you grow up? Explain.
+Write a physical description of your parents. Write as if your look at movie rather than a photograph
+If you had to escort visitors from outer space on a tour of your community, where would you begin and end?
