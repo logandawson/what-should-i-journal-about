@@ -98,7 +98,7 @@ Explain why we say, "Dead as a door nail".
 How do you feel about using humans in medical research?
 What does "copy cat” mean to you?
 What do you think about ghosts?
-What does "holds water” mean to you? What is your first memory?
+What is your first memory?
 How did you meet your current (or last) romantic partner?
 Describe your typical day, from wake to sleep.
 What would be your ideal birthday present, and why?
@@ -252,7 +252,7 @@ Where are you from?
 How would you go about 'saving the world'? What do those words mean to you? How long would it take? Where would you start?
 If you were to write a book, would it be fiction or non-fiction? What would the subject be? Who is your target audience?
 What's the first step you can take to making a difference in the world today? Would you try to feed the hungry, improve the environment, promote peace? How would you start?
-Write a story about what 1 day in your life would be like if you were a dog.
+Write a story about what 1 day in your life would be like if you were a dog or cat.
 Describe the ocean to a person who is blind.
 Using all of your 5 senses, describe your favorite food.
 How would you spend your time if you were wealthy?
@@ -431,7 +431,7 @@ Describe your first date.
 Who in your family is the biggest character?
 Tell a memory you have with one of your uncles.
 What is one unanswered question you would like to ask your grandparents? Why?
-Tell me about a time you got in trouble at school.
+A time you got in trouble at school.
 What is your favorite family dinner?
 What was your favorite family dinner as a child?
 Tell me about a time when you were grounded.
@@ -601,7 +601,7 @@ If you could give any gift in the world, what would you give and to whom?
 If you could live anywhere in the world, where would it be?
 If you received any sum of money as a gift, what would you do with it?
 If you could do whatever you wanted to right now, what would you do?
-If you were principal of this school, what would you do?
+If you were principal of a school, what would you do?
 If you were a mouse in your house in the evening, what would you see your family doing?
 What rituals do you have or hold?
 If you were lost in the woods and it got dark, what would you do?
@@ -653,7 +653,7 @@ What talents do you have?
 What three words would describe you right now?
 What four things are most important in your life?
 What color makes you think of happiness?
-What has been the most fun activity at school so far?
+What has been the most fun activity from your school days?
 What qualities do you like about yourself—creativity, personality, appearance—why?
 What eccentric behavior in a friend disturbs you the most?
 What parts of nature do you like best?
